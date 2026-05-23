@@ -7,10 +7,11 @@ para(i=0 ; i<14 ; i++){
 escreva("\n número é" , número)
 
 
-
+se(número < 0 ou ==15){
+escreva("\nnúmero inválido")
 }
 
-
+}
 
 
 
