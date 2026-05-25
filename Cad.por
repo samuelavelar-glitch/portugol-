@@ -10,7 +10,8 @@ escreva("\n número é" , número)
 se(número < 0 ou ==15){
 escreva("\nnúmero inválido")
 }
-
+senão 
+escreva("valido")
 }
 
 
