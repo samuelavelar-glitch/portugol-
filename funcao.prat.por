@@ -3,9 +3,9 @@ programa
     funcao verifica_numero(real numero )
     {
       se(numero<0){
-   escreva("\nnegativo") 
+   escreva("\nnegativos") 
   } senao {
-   	escreva("\npositivo")
+   	escreva("\npositivos")
       
     }
    
